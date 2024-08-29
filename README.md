@@ -12,3 +12,5 @@ Place all assets used in that month by creating the respective folder.
 The URL for the assets will be as follows:
 
 `https://bmerit.github.io/newsletter-assets/[folder name]/[image file]`
+
+example: https://bmerit.github.io/newsletter-assets/global/logo-color.png
